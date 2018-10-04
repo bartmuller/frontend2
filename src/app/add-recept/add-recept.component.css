@@ -1,0 +1,19 @@
+.add-recept{
+    background-color:red;
+}
+
+.grey{
+background-color: white;
+}
+
+.buttom_custom{
+    margin-top:50px;
+    margin-bottom:50px;
+}
+
+.h2_custom{
+    margin-top:20px;
+    font-family: 'Display';
+    font-weight: 700;
+}
+

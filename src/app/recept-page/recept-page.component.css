@@ -1,0 +1,17 @@
+h1, h2, h3, h4 {
+    font-family: 'Playfair Display';
+}
+
+
+h1, h3 {
+    margin-top:30px;
+    
+}
+
+img{
+    object-fit: cover;
+    margin-top:30px;
+    width: 100%;
+    height: 400px;
+}
+
